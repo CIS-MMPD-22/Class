@@ -9,8 +9,18 @@ p {
   letter-spacing: 0.8;
 }
 
+img {
+  display: block;
+  width: 600px;
+}
+
 .first {
-  font-size: 36px; 
+  font-size: 36px;
+}
+
+body {
+  background-image: url("images/shroom.png");
+  background-repeat: repeat;
 }
 
 /* body {
