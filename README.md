@@ -1,4 +1,4 @@
-###Class Resources List
+##Class Resources List
 
 Here you'll find a list of class resources. Check back as this page will be frequently updated.
 
